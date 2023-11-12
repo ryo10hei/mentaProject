@@ -1,2 +1,1 @@
-# springboot_docker
- てすと
+# mentaProject
